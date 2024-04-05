@@ -1,3 +1,7 @@
+### COLORANT SOURCE LOL
+
+[YOUTUBE TUTORIAL](https://www.youtube.com/watch?v=KdGcWjNVbOE)
+
 <h1 align="center">Colorant 🍇</h1>
 
 ### About
@@ -12,10 +16,8 @@ The primary objective of this project is to showcase a proof of concept, demonst
 
 ![image](https://user-images.githubusercontent.com/82477000/225608740-5f690006-9cc8-4d88-8a60-cda89d0f936f.png)
 
-[![Downloads][downloads-shield]][downloads-link]
-[![Discord][discord-shield]][discord-link]
-[![Language][language-shield]][language-link]
-[![License][license-shield]][license-link]
+[![Discord][discord-shield]] serenity091
+
 
 ## Getting started
 
@@ -46,9 +48,7 @@ You can customize Colorant to suit your preferences:
 By making these adjustments, you can fine-tune Colorant to suit your preferences and optimize its performance within the game.
 ## Support
 
-If you require support or have any questions regarding Colorant, please feel free to join the community Discord:
-
-[![Discord Banner 2][discord-banner]][discord-link]
+If you require support or have any questions regarding Colorant, please feel free to add me SERENITY091
 
 I would like to express my sincere appreciation and give due credit to the program Firepro, which served as a significant inspiration for the development of my Project Colorant. Furthermore, I would like to clarify that the Arduino sketches incorporated within this project were not coded by me.
 
